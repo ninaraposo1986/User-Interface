@@ -76,12 +76,12 @@ margin: 2% auto;
 
 nav {
 	display:inline-block;
-	
 	width: 75%;
 }
 
 header {
 	padding-bottom: 10px;
+
 
 }
 
@@ -94,13 +94,45 @@ a {
 
 h1 {
 	font-size: 72px;
+	
+	left: 50px;
 
 }
 
-.logo {
-position: absolute;
-padding-right: 4px;
 
+.welcome {
+	display:inline-block;
+	margin-left:40px;
+}
+
+button {
+	background:white;
+	width:40%;
+	border:1px solid grey;
+}
+
+
+
+.left-splash-wrapper {
+	display:inline-block;
+	text-align:center;
+	margin-left:30px;
+	padding-bottom:20px;
+}
+
+.middle-img {
+	max-width:100%;
+}
+
+.featuresAbout {
+	display:inline-block;
+	width: 49%;
+
+}
+
+.serProViz {
+	display: inline-block;
+	width: 33%;
 }
 
 
